@@ -1,0 +1,14 @@
+C:\Users\raghavendra.jinkala\source\repos\raghu practice\sep 8 2018\bin\Debug\sep 8 2018.exe.config
+C:\Users\raghavendra.jinkala\source\repos\raghu practice\sep 8 2018\bin\Debug\sep 8 2018.exe
+C:\Users\raghavendra.jinkala\source\repos\raghu practice\sep 8 2018\bin\Debug\sep 8 2018.pdb
+C:\Users\raghavendra.jinkala\source\repos\raghu practice\sep 8 2018\obj\Debug\sep 8 2018.csprojAssemblyReference.cache
+C:\Users\raghavendra.jinkala\source\repos\raghu practice\sep 8 2018\obj\Debug\sep 8 2018.csproj.CoreCompileInputs.cache
+C:\Users\raghavendra.jinkala\source\repos\raghu practice\sep 8 2018\obj\Debug\sep 8 2018.exe
+C:\Users\raghavendra.jinkala\source\repos\raghu practice\sep 8 2018\obj\Debug\sep 8 2018.pdb
+D:\raghu c#\Assignments\sep 8\bin\Debug\sep 8 2018.exe.config
+D:\raghu c#\Assignments\sep 8\bin\Debug\sep 8 2018.exe
+D:\raghu c#\Assignments\sep 8\bin\Debug\sep 8 2018.pdb
+D:\raghu c#\Assignments\sep 8\obj\Debug\sep 8 2018.csprojAssemblyReference.cache
+D:\raghu c#\Assignments\sep 8\obj\Debug\sep 8 2018.csproj.CoreCompileInputs.cache
+D:\raghu c#\Assignments\sep 8\obj\Debug\sep 8 2018.exe
+D:\raghu c#\Assignments\sep 8\obj\Debug\sep 8 2018.pdb

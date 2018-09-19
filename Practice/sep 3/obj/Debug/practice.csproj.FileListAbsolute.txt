@@ -1,0 +1,7 @@
+C:\Users\raghavendra.jinkala\source\repos\raghu practice\practice\bin\Debug\practice.exe.config
+C:\Users\raghavendra.jinkala\source\repos\raghu practice\practice\bin\Debug\practice.exe
+C:\Users\raghavendra.jinkala\source\repos\raghu practice\practice\bin\Debug\practice.pdb
+C:\Users\raghavendra.jinkala\source\repos\raghu practice\practice\obj\Debug\practice.csprojAssemblyReference.cache
+C:\Users\raghavendra.jinkala\source\repos\raghu practice\practice\obj\Debug\practice.csproj.CoreCompileInputs.cache
+C:\Users\raghavendra.jinkala\source\repos\raghu practice\practice\obj\Debug\practice.exe
+C:\Users\raghavendra.jinkala\source\repos\raghu practice\practice\obj\Debug\practice.pdb

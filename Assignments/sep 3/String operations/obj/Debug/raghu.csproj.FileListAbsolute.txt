@@ -1,0 +1,7 @@
+D:\raghu c#\raghu\raghu\bin\Debug\raghu.exe.config
+D:\raghu c#\raghu\raghu\bin\Debug\raghu.exe
+D:\raghu c#\raghu\raghu\bin\Debug\raghu.pdb
+D:\raghu c#\raghu\raghu\obj\Debug\raghu.csprojAssemblyReference.cache
+D:\raghu c#\raghu\raghu\obj\Debug\raghu.csproj.CoreCompileInputs.cache
+D:\raghu c#\raghu\raghu\obj\Debug\raghu.exe
+D:\raghu c#\raghu\raghu\obj\Debug\raghu.pdb

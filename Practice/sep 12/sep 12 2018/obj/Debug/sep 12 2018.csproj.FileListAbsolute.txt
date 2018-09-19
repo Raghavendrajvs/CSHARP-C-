@@ -1,0 +1,7 @@
+D:\raghu c#\Practice\sep 12\sep 12 2018\bin\Debug\sep 12 2018.exe.config
+D:\raghu c#\Practice\sep 12\sep 12 2018\bin\Debug\sep 12 2018.exe
+D:\raghu c#\Practice\sep 12\sep 12 2018\bin\Debug\sep 12 2018.pdb
+D:\raghu c#\Practice\sep 12\sep 12 2018\obj\Debug\sep 12 2018.csprojAssemblyReference.cache
+D:\raghu c#\Practice\sep 12\sep 12 2018\obj\Debug\sep 12 2018.csproj.CoreCompileInputs.cache
+D:\raghu c#\Practice\sep 12\sep 12 2018\obj\Debug\sep 12 2018.exe
+D:\raghu c#\Practice\sep 12\sep 12 2018\obj\Debug\sep 12 2018.pdb

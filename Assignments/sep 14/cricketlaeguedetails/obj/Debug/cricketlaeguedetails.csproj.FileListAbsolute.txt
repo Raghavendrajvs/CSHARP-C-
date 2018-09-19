@@ -1,0 +1,6 @@
+D:\raghu c#\Assignments\sep 14a\cricketlaeguedetails\bin\Debug\cricketlaeguedetails.dll
+D:\raghu c#\Assignments\sep 14a\cricketlaeguedetails\bin\Debug\cricketlaeguedetails.pdb
+D:\raghu c#\Assignments\sep 14a\cricketlaeguedetails\obj\Debug\cricketlaeguedetails.csprojAssemblyReference.cache
+D:\raghu c#\Assignments\sep 14a\cricketlaeguedetails\obj\Debug\cricketlaeguedetails.csproj.CoreCompileInputs.cache
+D:\raghu c#\Assignments\sep 14a\cricketlaeguedetails\obj\Debug\cricketlaeguedetails.dll
+D:\raghu c#\Assignments\sep 14a\cricketlaeguedetails\obj\Debug\cricketlaeguedetails.pdb

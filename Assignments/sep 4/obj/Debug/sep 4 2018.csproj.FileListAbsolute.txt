@@ -1,0 +1,7 @@
+C:\Users\raghavendra.jinkala\source\repos\raghu assignments\raghu assignments\obj\Debug\sep 4 2018.csproj.CoreCompileInputs.cache
+C:\Users\raghavendra.jinkala\source\repos\raghu assignments\raghu assignments\bin\Debug\raghu assignments.exe.config
+C:\Users\raghavendra.jinkala\source\repos\raghu assignments\raghu assignments\bin\Debug\raghu assignments.exe
+C:\Users\raghavendra.jinkala\source\repos\raghu assignments\raghu assignments\bin\Debug\raghu assignments.pdb
+C:\Users\raghavendra.jinkala\source\repos\raghu assignments\raghu assignments\obj\Debug\raghu assignments.exe
+C:\Users\raghavendra.jinkala\source\repos\raghu assignments\raghu assignments\obj\Debug\raghu assignments.pdb
+C:\Users\raghavendra.jinkala\source\repos\raghu assignments\raghu assignments\obj\Debug\sep 4 2018.csprojAssemblyReference.cache
